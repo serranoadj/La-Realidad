@@ -1,2 +1,2 @@
 # La-Realidad
-Ensayo libre sobre la realidad
+Un ensayo libre sobre la realidad
